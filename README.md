@@ -1,6 +1,6 @@
 # Shut Down the Computer Safely
 
-[![Shut Down the Computer Safely](blue.png)](https://icncomputer.com/shut-down-the-computer-safely/)
+[![Shut Down the Computer Safely](blue.png)](https://computer-solved.com/shut-down-the-computer-safely/)
 
 There are many benefits to **shutting down your computer properly**. If you simply close your laptop after each use, your computer could experience degraded performance over time. Also, if you don’t use features that lock access to your device, simply closing the notebook means that anybody nearby could quickly have access to your open documents and sessions
 
